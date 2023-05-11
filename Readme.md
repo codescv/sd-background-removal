@@ -1,0 +1,1 @@
+# background removal plugin for Automatic1111
